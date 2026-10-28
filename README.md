@@ -19,4 +19,4 @@ Gosto de construir coisas com **Python, JavaScript e SQL** e uso ferramentas de 
 
 ### 📫 Contato
 
-[LinkedIn](https://www.linkedin.com/in/gabriel-vasconcellos-de-morais/) · gabriel2003morais@hotmail.com
+[Portfólio](https://vasconcellosgabriel.github.io) · [LinkedIn](https://www.linkedin.com/in/gabriel-vasconcellos-de-morais/) · gabriel2003morais@hotmail.com
